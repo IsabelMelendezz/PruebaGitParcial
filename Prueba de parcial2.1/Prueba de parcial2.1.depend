@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1713324783 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial crud\prueba de parcial2.1\main.cpp
+	<iostream>
+	"usuario.h"
+	"catalogo.h"
+	"informe.h"
+
+1713324175 c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial crud\prueba de parcial2.1\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713324214 c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial crud\prueba de parcial2.1\include\catalogo.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713324324 c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial crud\prueba de parcial2.1\include\informe.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713324570 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial crud\prueba de parcial2.1\src\catalogo.cpp
+	"catalogo.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713324295 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial crud\prueba de parcial2.1\src\informe.cpp
+	"informe.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713324683 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial crud\prueba de parcial2.1\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<conio.h>
+	<algorithm>
+	<iomanip>
+
+1713326010 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial parcial 2 hotel\prueba de parcial2.1\main.cpp
+	<iostream>
+	"usuario.h"
+	"catalogo.h"
+	"informe.h"
+
+1713325251 c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial parcial 2 hotel\prueba de parcial2.1\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713325251 c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial parcial 2 hotel\prueba de parcial2.1\include\catalogo.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713325251 c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial parcial 2 hotel\prueba de parcial2.1\include\informe.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713326671 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial parcial 2 hotel\prueba de parcial2.1\src\catalogo.cpp
+	"catalogo.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713327080 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial parcial 2 hotel\prueba de parcial2.1\src\informe.cpp
+	"informe.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713325252 source:c:\users\melen\onedrive\escritorio\ayuda parcial2 progra\ensayo oficial parcial 2 hotel\prueba de parcial2.1\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<conio.h>
+	<algorithm>
+	<iomanip>
+
